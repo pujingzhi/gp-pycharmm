@@ -1,0 +1,18 @@
+* Creatine topology 
+
+read rtf card append
+* iom topology
+*
+31  1
+
+RESI AMM         0.00 ! ammonia
+GROUP
+Atom nz nh3      0.00 ! 
+Atom hz1 hc      0.00 !
+Atom hz2 hc      0.00 !
+Atom hz3 hc      0.00 !
+patc firs none last none
+
+end
+return
+

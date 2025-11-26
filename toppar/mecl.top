@@ -1,0 +1,19 @@
+* Creatine topology 
+
+read rtf card append
+* iom topology
+*
+31  1
+
+Resi MECL        0.00 !  methyl chloride
+Group
+ Atom C1 ct3     0.00 !  
+ Atom H1 ha      0.00 ! 
+ Atom H2 ha      0.00 !  
+ Atom H3 ha      0.00 !  
+ Atom CL cla    0.00 !  
+patc firs none last none
+
+end
+return
+
