@@ -1,3 +1,5 @@
+## GP-pyCHARMM 
+
 This repository contains sample codes and scripts to deminstrate how to combine Gaussian process regression (GPR) with QM/MM in CHARMM through pyCHARMM. 
 
 Currently, a minimal but complete example - based on GPR with derivative observations (GPRwDO) using the Behler-Parrinello (BP) descriptors -
