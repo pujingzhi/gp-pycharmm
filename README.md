@@ -13,7 +13,7 @@ Specifically, the example constains Python scripts for conducting the following 
 4. `men_deploy_gprwdo.py` (GPflow + pyCHARMM) - deploys the optimized BP-GPRwDO model in pyCHARMM to correct AM1/MM for an update RC scan. 
 
 Descriptons of other miscellaneous files/folders:
-- `gen1.psf` & `gen1.crd - pre-generated CHARMM .psf & .crd files for the solvated Menshutkin reaction system; 
+- `gen1.psf` & `gen1.crd` - pre-generated CHARMM .psf & .crd files for the solvated Menshutkin reaction system; 
 - `toppar/` - contains the necessary CHARMM topology and parameter files to run the example;
 - `data/` - contains Gaussian input template files to run single-point DFT/MM calculations through Gaussian's interface with CHARMM;
 - `scratch/` - a scratch directory needed for Gaussian calculations;
