@@ -24,6 +24,6 @@ Descriptons of other miscellaneous files/folders:
 - `kext.py` - codes for constructing extended kernels in GPRwDO.
 
 Reference:  
-“Enhancing Gaussian Process Regression-Accelerated QM/MM Free Energy Simulations Using Atomic Environment Descriptors,”  
-Snyder, R.; Li, D.; Ho, Tinh; Kim, B.; Qazi, H.; Pan, X.; Shao, Y.; Pu, J. **2025**, submitted (preprint: *ChemRxiv* [DOI:10.26434/chemrxiv-2025-hg8n7](https://doi.org/10.26434/chemrxiv-2025-hg8n7)).
+“Enhancing Gaussian Process Regression-Accelerated QM/MM Free Energy Simulations Using Atomic Environment Descriptors,” Snyder, R.; Li, D.; Ho, Tinh; Kim, B.; 
+Qazi, H.; Pan, X.; Shao, Y.; Pu, J. **2025**, submitted (preprint: *ChemRxiv* [DOI:10.26434/chemrxiv-2025-hg8n7](https://doi.org/10.26434/chemrxiv-2025-hg8n7)).
 
