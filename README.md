@@ -10,7 +10,7 @@ Specifically, the example constains Python scripts for conducting the following 
 2. `men_sp_am1.py` & `men_sp_b3lyp.py` (pyCHARMM + Gaussian) - single-point energy-and-force calculations at the AM/MM and B3LYP/6-31+G(d,p)/MM 
      levels based on the trajectory produced in step (1);
 3. `men_train_gpr.py` (GPflow) - trains a BP-GPR model to correct AM1/MM using the data collected in step (2);
-4. `men_deploy_gpr.py` (GPflow + pyCHARMM) - deploys the optimized BP-GPR model in pyCHARMM to correct AM1/MM for an update RC scan.
+4. `men_deploy_gpr.py` (GPflow + pyCHARMM) - deploys the optimized BP-GPR model in pyCHARMM to correct AM1/MM for an update RC scan;
 5. `men_train_gprwdo.py` (GPflow) - trains a BP-GPRwDO model to correct AM1/MM using the data collected in step (2);
 6. `men_deploy_gprwdo.py` (GPflow + pyCHARMM) - deploys the optimized BP-GPRwDO model in pyCHARMM to correct AM1/MM for an update RC scan. 
 
